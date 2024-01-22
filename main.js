@@ -353,8 +353,8 @@ global.reloadHandler = async function(restatConn) {
 
   conn.welcome = '👋 ¡Bienvenido/a!\n@user';
   conn.bye = '👋 ¡Hasta luego!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user Fue promovido a administrador.*';
-  conn.sdemote = '*[ ℹ️ ] @user Fue degradado de administrador.*';
+  conn.spromote = '*[ ℹ️ ] @user 𝚂𝙴 𝚂𝚄𝙼𝙰 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂.*';
+  conn.sdemote = '*[ ℹ️ ] @user𝚂𝙴 𝚂𝚄𝙼𝙰 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂.*';
   conn.sDesc = '*[ ℹ️ ] La descripción del grupo ha sido modificada.*';
   conn.sSubject = '*[ ℹ️ ] El nombre del grupo ha sido modificado.*';
   conn.sIcon = '*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*';
